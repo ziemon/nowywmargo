@@ -1,0 +1,101 @@
+#mapa1 {
+    position:relative;
+}
+#mapa1:hover:after {
+    content: url(../images/mushitamapa1.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#mapa2 {
+    position:relative;
+}
+#mapa2:hover:after {
+    content: url(../images/mushitamapa2.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#mapa3 {
+    position:relative;
+}
+#mapa3:hover:after {
+    content: url(../images/mushitamapa3.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#questlog1 {
+    position: relative;
+}
+#questlog1:hover:after {
+    content: url(../images/questlog1.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#rzemiosło {
+    position: relative;
+}
+#rzemiosło:hover:after {
+    content: url(../images/rzemiosło.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#erwinsklep {
+    position: relative;
+}
+#erwinsklep:hover:after {
+    content: url(../images/erwinsklep.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#kości {
+    position: relative;
+}
+#kości:hover:after {
+    content: url(../images/kosci.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#gear {
+    position: relative;
+}
+#gear:hover:after {
+    content: url(../images/gear.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+#skrzynkamushita {
+    position: relative;
+}
+#skrzynkamushita:hover:after {
+    content: url(../images/skrzynkamushita.png);
+    display:block;
+    position:absolute;
+    left:0;
+    z-index: 1000;
+}
+.button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
